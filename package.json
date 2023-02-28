@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/XmiTchiX/project_1cs_api.git"
+    "url": "git+https://github.com/Projet-1CS/project_1cs_api.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/XmiTchiX/project_1cs_api/issues"
+    "url": "https://github.com/Projet-1CS/project_1cs_api/issues"
   },
-  "homepage": "https://github.com/XmiTchiX/project_1cs_api#readme",
+  "homepage": "https://github.com/Projet-1CS/project_1cs_api#readme",
   "dependencies": {
     "@prisma/client": "^4.10.1",
     "bcrypt": "^5.1.0",
