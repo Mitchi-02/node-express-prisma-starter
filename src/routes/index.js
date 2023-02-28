@@ -1,0 +1,1 @@
+//endpoints and controller redirect

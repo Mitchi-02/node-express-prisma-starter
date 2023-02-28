@@ -1,0 +1,1 @@
+//data attributs of each model that are sent to the front-end
