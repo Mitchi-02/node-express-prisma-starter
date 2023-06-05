@@ -1,4 +1,4 @@
-# project_1cs_api
+# Node js starter
 ### install dependencies
     npm install
 ### install nodemon as global dependency if it's not already installed (execute in sudo-admin mode)
