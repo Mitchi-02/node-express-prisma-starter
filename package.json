@@ -1,5 +1,5 @@
 {
-  "name": "project_1cs_api",
+  "name": "node_api",
   "description": "",
   "version": "1.0.0",
   "main": "index.js",
@@ -18,14 +18,13 @@
   },
   "homepage": "https://github.com/Project-1CS/project_1cs_api#readme",
   "dependencies": {
-    "@prisma/client": "^4.10.1",
-    "bcrypt": "^5.1.0",
-    "dotenv": "^16.0.3",
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.3.1",
     "express": "^4.18.2",
-    "jsonwebtoken": "^9.0.0",
+    "jsonwebtoken": "^9.0.2",
     "morgan": "^1.10.0",
-    "prisma": "^4.10.1",
-    "swagger-ui-express": "^4.6.2"
+    "prisma": "^5.7.1",
+    "swagger-ui-express": "^5.0.0"
   },
   "prisma": {
     "schema": "config/db/schema.prisma"
