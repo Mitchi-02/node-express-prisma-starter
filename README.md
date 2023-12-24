@@ -1,4 +1,4 @@
-# Node js starter
+# Node 18 starter
 ### install dependencies
     npm install
 ### install nodemon as global dependency if it's not already installed (execute in sudo-admin mode)
