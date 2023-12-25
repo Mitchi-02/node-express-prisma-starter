@@ -1,4 +1,5 @@
 # Node 18 with Prisma starter
+Node 18 starter with express, prisma and swagger. 
 ### Install Dependencies
     npm install
 ### Install nodemon as global dependency if it's not already installed (execute in sudo-admin mode)
